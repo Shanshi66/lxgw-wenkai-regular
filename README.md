@@ -1,4 +1,4 @@
-# yozai-regular
+# LXGW WenKai Regular
 
 ## 字体
 
